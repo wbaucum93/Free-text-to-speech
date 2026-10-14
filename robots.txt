@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wbaucum93.github.io/Free-text-to-speech/sitemap.xml
